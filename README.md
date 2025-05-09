@@ -8,7 +8,7 @@ Bem-vindo à coleção de projetos de estudo em Python! Esta pasta contém uma s
 
 ### Projeto 1: Quiz de Geografia
 
-**Descrição Breve**: Um quiz interativo que testa seus conhecimentos sobre as capitais dos países. Ideal para estudantes e entusiastas de geografia que desejam aprender de forma divertida.
+**Descrição**: Um quiz interativo que testa seus conhecimentos sobre as capitais dos países. Ideal para estudantes e entusiastas de geografia que desejam aprender de forma divertida.
 
 ---
 
