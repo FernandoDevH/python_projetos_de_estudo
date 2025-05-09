@@ -6,7 +6,7 @@ computer_points = 0
 options = ["Pedra", "Papel", "Tesoura"]
 
 while True:
-    user_choice = input("Escolha 0(pedra), 1(papel) ou 2(tesoura) ou 'sair' para encerrar: ").strip()
+    user_choice = input("Escolha 0(Pedra), 1(Papel) ou 2(Tesoura) ou 'sair' para encerrar: ").strip()
     
     if user_choice in ["0", "1", "2"]:
         user_choice = int(user_choice)
