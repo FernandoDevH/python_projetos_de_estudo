@@ -9,7 +9,7 @@ Bem-vindo ao **Jogo da Data Misteriosa**! Este programa desafia o jogador a adiv
 1. **Escolha Aleatória**  
    O programa seleciona aleatoriamente uma data (no formato `DDMMAAAA`) a partir de um arquivo JSON contendo pares de data e dica.
 
-2. **Dica Revelada**  
+2. **Dica Revelada**
    O jogador recebe uma dica relacionada à data misteriosa.
 
 3. **Tentativas**  
